@@ -1,0 +1,38 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.navbar{
+    background-color: green;
+}
+
+.quem-somos{
+	background-color: #58ACFA;
+}
+
+.margin{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.navbar-link {
+	text-align: center;  
+}
+
+.parceiros{
+	background-color: white;
+}
+
+.serviços{
+	background-color: #58ACFA;
+}
+
+.bg-footer{
+	background-color: black;
+	color: white;
+}
+
+.margin-footer{
+	padding-top: 20px;
+	padding-bottom: 4px;
+}
